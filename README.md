@@ -36,7 +36,7 @@ The analysis extracts and examines various features from the dataset, including:
 
 ## 📁 Files
 
-- `BM5033_Final_Exam_Analysis.ipynb`: Jupyter notebook containing the complete analysis.
+- `protiens.ipynb`: Jupyter notebook containing the complete analysis.
 - `DataSet2.csv`: Dataset containing expression levels, cell dimensions, and experimental conditions.
 
 ## 📈 Results
