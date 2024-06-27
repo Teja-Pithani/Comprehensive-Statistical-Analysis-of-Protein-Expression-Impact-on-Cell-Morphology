@@ -21,15 +21,15 @@ The analysis extracts and examines various features from the dataset, including:
 1. Clone the repository and navigate to the project directory:
    ```bash
    git clone <repository-url>
-   cd BM5033_Final_Exam_Analysis
+   cd protiens
    ```
 2. Ensure you have the required libraries installed:
    ```bash
    pip install pandas numpy matplotlib seaborn altair scipy scikit-learn statsmodels
    ```
-3. Open the Jupyter notebook (`BM5033_Final_Exam_Analysis.ipynb`) in an environment that supports execution (e.g., Jupyter Notebook, JupyterLab):
+3. Open the Jupyter notebook (`protiens.ipynb`) in an environment that supports execution (e.g., Jupyter Notebook, JupyterLab):
    ```bash
-   jupyter notebook BM5033_Final_Exam_Analysis.ipynb
+   jupyter notebook protiens.ipynb
    ```
 4. Execute the notebook cells to import libraries, load the dataset, and perform the analysis.
 5. Review the visualizations and statistical test results to understand the impact of different experimental conditions on protein expression levels.
